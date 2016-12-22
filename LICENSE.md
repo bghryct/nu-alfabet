@@ -1,6 +1,6 @@
 SIL OPEN FONT LICENSE
 
-  Version 1.1 - 26 February 2007
+Version 1.1 - 26 February 2007
 
 PREAMBLE
 
