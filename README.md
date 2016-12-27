@@ -4,7 +4,7 @@ This is a family of fonts that clone [Wim Crouwel](https://en.wikipedia.org/wiki
 
 Each font has in its name a sequence of five numbers that describe its proportions, in order:  
 1. number of vertical units (odd progression, defines glyph width)  
-2. number of [UPMs](http://luc.devroye.org/ump.html) per vertical unit (that is, the unit width)  
+2. number of [UPM](http://luc.devroye.org/ump.html)s per vertical unit (that is, the unit width)  
 3. number of horizontal units (odd progression, defines glyph height, at least x-height + 4)  
 4. number of UPMs per horizontal unit (that is, the unit height)  
 5. number of horizontal units that comprise the x-height (odd progression)  
