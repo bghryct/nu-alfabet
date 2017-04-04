@@ -2,7 +2,7 @@
 
 This is a family of fonts that clone Wim Crouwel’s [New Alphabet](https://en.wikipedia.org/wiki/New_Alphabet) parametric typesetting system. It is the culmination of an [exercise](https://github.com/rdazvd/new-alphabet-generator) for learning how to use Python and the [Glyphs](https://glyphsapp.com/) font editor API. The family consists of several variations in the glyphs proportions automatically generated from a high level description of the design in Python code (or a “metafont” in the broad sense that Donald Knuth defined in the [Metafontbook](https://www.amazon.com/Metafont-Book-Donald-Knuth/dp/0201134446), that is, “a schematic description of the shapes in a family of related fonts”).
 
-![schematic representation of nu-alfabet's parameters](nu-alfabet/nu-alfabet-parameters.png)
+![schematic representation of nu-alfabet's parameters](https://github.com/rdazvd/nu-alfabet/nu-alfabet-parameters.png)
 
 Each font has in its name a sequence of five parameters that describe its proportions, in order (image reference of each parameter between brackets):  
 1. number of vertical units (odd progression, defines glyph width) [a]
