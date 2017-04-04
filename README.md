@@ -6,7 +6,7 @@ This is a family of fonts that clone Wim Crouwel’s [New Alphabet](https://en.w
 
 Each font has in its name a sequence of five parameters that describe its proportions, in order (image reference of each parameter between brackets):  
 1. number of vertical units (odd progression, defines glyph width) [a]
-2. number of [UPM]s(http://luc.devroye.org/ump.html) per vertical unit (that is, the unit width) [b]
+2. number of [UPMs](http://luc.devroye.org/ump.html) per vertical unit (that is, the unit width) [b]
 3. number of horizontal units (odd progression; defines glyph height; at least x-height + 4) [c]
 4. number of UPMs per horizontal unit (that is, the unit height) [d]
 5. number of horizontal units that comprise the x-height (odd progression) [x]
