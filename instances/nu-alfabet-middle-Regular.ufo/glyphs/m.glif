@@ -3,11 +3,23 @@
   <advance width="300"/>
   <unicode hex="006D"/>
   <outline>
-    <component base="n"/>
-    <component base="basicComponent" xOffset="25" yOffset="-200"/>
-    <component base="basicComponent" xOffset="75" yOffset="-200"/>
-    <component base="basicComponent" xOffset="125" yOffset="-200"/>
-    <component base="basicComponent" xOffset="175" yOffset="-200"/>
-    <component base="basicComponent" xOffset="225" yOffset="-200"/>
+    <contour>
+      <point x="225" y="500" type="line"/>
+      <point x="75" y="500" type="line"/>
+      <point x="25" y="400" type="line"/>
+      <point x="25" y="0" type="line"/>
+      <point x="75" y="0" type="line"/>
+      <point x="75" y="400" type="line"/>
+      <point x="225" y="400" type="line"/>
+      <point x="225" y="0" type="line"/>
+      <point x="275" y="0" type="line"/>
+      <point x="275" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="25" y="-100" type="line"/>
+      <point x="25" y="-200" type="line"/>
+      <point x="275" y="-200" type="line"/>
+      <point x="275" y="-100" type="line"/>
+    </contour>
   </outline>
 </glyph>

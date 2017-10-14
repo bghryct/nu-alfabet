@@ -53,8 +53,6 @@
 		<string>space</string>
 		<string>minus</string>
 		<string>plus</string>
-		<string>basicComponent</string>
-		<string>cornerComponent</string>
 	</array>
 </dict>
 </plist>

@@ -3,10 +3,21 @@
   <advance width="300"/>
   <unicode hex="0065"/>
   <outline>
-    <component base="c"/>
-    <component base="basicComponent" xOffset="225" yOffset="200"/>
-    <component base="basicComponent" xOffset="175" yOffset="200"/>
-    <component base="basicComponent" xOffset="125" yOffset="200"/>
-    <component base="basicComponent" xOffset="75" yOffset="200"/>
+    <contour>
+      <point x="275" y="400" type="line"/>
+      <point x="275" y="500" type="line"/>
+      <point x="75" y="500" type="line"/>
+      <point x="25" y="400" type="line"/>
+      <point x="25" y="100" type="line"/>
+      <point x="75" y="0" type="line"/>
+      <point x="275" y="0" type="line"/>
+      <point x="275" y="100" type="line"/>
+      <point x="75" y="100" type="line"/>
+      <point x="75" y="200" type="line"/>
+      <point x="275" y="200" type="line"/>
+      <point x="275" y="300" type="line"/>
+      <point x="75" y="300" type="line"/>
+      <point x="75" y="400" type="line"/>
+    </contour>
   </outline>
 </glyph>

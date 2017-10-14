@@ -7,17 +7,17 @@
 	<key>capHeight</key>
 	<integer>500</integer>
 	<key>copyright</key>
-	<string>Copyright © 2017 by . All rights reserved.</string>
+	<string>Copyright © 2017 by Rafael de Azevedo. All rights reserved.</string>
 	<key>descender</key>
 	<integer>-200</integer>
 	<key>familyName</key>
-	<string>Nu Alfabet</string>
+	<string>nu-alfabet-middle</string>
 	<key>openTypeHeadCreated</key>
-	<string>2017/10/04 11:16:40</string>
+	<string>2017/10/14 13:43:11</string>
 	<key>openTypeNameDesigner</key>
 	<string>Rafael de Azevedo</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>Nu Alfabet</string>
+	<string>nu-alfabet-middle</string>
 	<key>postscriptBlueValues</key>
 	<array>
 		<integer>-15</integer>
