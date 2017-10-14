@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k" format="1">
+  <advance width="600"/>
+  <unicode hex="006B"/>
+  <outline>
+    <component base="l"/>
+    <component base="basicComponent" xOffset="450" yOffset="400"/>
+    <component base="basicComponent" xOffset="350" yOffset="400"/>
+    <component base="basicComponent" xOffset="250" yOffset="400"/>
+    <component base="basicComponent" xOffset="150" yOffset="400"/>
+  </outline>
+</glyph>

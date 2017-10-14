@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plus" format="1">
+  <advance width="300"/>
+  <unicode hex="002B"/>
+  <outline>
+    <component base="basicComponent" xOffset="125"/>
+    <component base="basicComponent" xOffset="125" yOffset="100"/>
+    <component base="basicComponent" xOffset="125" yOffset="200"/>
+    <component base="basicComponent" xOffset="125" yOffset="300"/>
+    <component base="basicComponent" xOffset="125" yOffset="400"/>
+    <component base="basicComponent" xOffset="25" yOffset="100"/>
+    <component base="basicComponent" xOffset="75" yOffset="100"/>
+    <component base="basicComponent" xOffset="225" yOffset="100"/>
+    <component base="basicComponent" xOffset="175" yOffset="100"/>
+  </outline>
+</glyph>

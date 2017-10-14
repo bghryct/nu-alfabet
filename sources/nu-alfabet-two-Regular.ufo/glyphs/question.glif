@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="question" format="1">
+  <advance width="600"/>
+  <unicode hex="003F"/>
+  <outline>
+    <component base="c" xOffset="600" xScale="-1"/>
+    <component base="basicComponent" xOffset="50" yOffset="-200"/>
+  </outline>
+</glyph>

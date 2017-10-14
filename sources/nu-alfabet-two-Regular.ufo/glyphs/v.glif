@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v" format="1">
+  <advance width="600"/>
+  <unicode hex="0076"/>
+  <outline>
+    <component base="basicComponent" xOffset="450" yOffset="600"/>
+    <component base="basicComponent" xOffset="450" yOffset="500"/>
+    <component base="basicComponent" xOffset="450" yOffset="400"/>
+    <component base="basicComponent" xOffset="450" yOffset="300"/>
+    <component base="basicComponent" xOffset="450" yOffset="200"/>
+    <component base="basicComponent" xOffset="450" yOffset="100"/>
+    <component base="cornerComponent" xOffset="450"/>
+    <component base="basicComponent" xOffset="350"/>
+    <component base="basicComponent" xOffset="250"/>
+    <component base="basicComponent" xOffset="150"/>
+    <component base="cornerComponent" xOffset="150" xScale="-1"/>
+    <component base="basicComponent" xOffset="50" yOffset="100"/>
+    <component base="basicComponent" xOffset="50" yOffset="200"/>
+    <component base="basicComponent" xOffset="50" yOffset="300"/>
+    <component base="basicComponent" xOffset="50" yOffset="400"/>
+  </outline>
+</glyph>

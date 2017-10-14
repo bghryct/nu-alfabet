@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon" format="1">
+  <advance width="300"/>
+  <unicode hex="003A"/>
+  <outline>
+    <component base="basicComponent" xOffset="25"/>
+    <component base="basicComponent" xOffset="25" yOffset="400"/>
+    <component base="basicComponent" xOffset="225"/>
+    <component base="basicComponent" xOffset="225" yOffset="400"/>
+  </outline>
+</glyph>

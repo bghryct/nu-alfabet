@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minus" format="1">
+  <advance width="300"/>
+  <unicode hex="2212"/>
+  <outline>
+    <component base="basicComponent" xOffset="25" yOffset="600"/>
+    <component base="basicComponent" xOffset="75" yOffset="600"/>
+    <component base="basicComponent" xOffset="125" yOffset="600"/>
+    <component base="basicComponent" xOffset="175" yOffset="600"/>
+    <component base="basicComponent" xOffset="225" yOffset="600"/>
+  </outline>
+</glyph>
