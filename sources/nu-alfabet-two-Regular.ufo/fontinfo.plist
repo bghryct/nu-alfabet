@@ -11,13 +11,13 @@
 	<key>descender</key>
 	<integer>-200</integer>
 	<key>familyName</key>
-	<string>Nu Alfabet</string>
+	<string>nu-alfabet-two</string>
 	<key>openTypeHeadCreated</key>
 	<string>2017/10/04 10:34:48</string>
 	<key>openTypeNameDesigner</key>
 	<string>Rafael de Azevedo</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>Nu Alfabet</string>
+	<string>nu-alfabet-two</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
 	<key>openTypeOS2WeightClass</key>
