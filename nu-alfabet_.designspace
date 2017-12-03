@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<designspace format="3">
+  <axes>
+    <axis default="0" maximum="1000" minimum="0" name="Vertical Proportion" tag="VTUN">
+      <labelname xml:lang="en">Vertical Proportion</labelname>
+    </axis>
+    <axis default="0" maximum="1000" minimum="0" name="Horizontal Proportion" tag="HTUN">
+      <labelname xml:lang="en">Horizontal Proportion</labelname>
+    </axis>
+  </axes>
+  <sources>
+    <source familyname="Nu Alfabet" filename="sources/nu-alfabet-3-10-7-10-5-Regular.ufo" name="master_initial">
+      <lib copy="1"/>
+      <info copy="1"/>
+      <kerning copy="1"/>
+      <location>
+        <dimension name="Vertical Proportion"      xvalue="0"/>
+        <dimension name="Horizontal Proportion"    xvalue="0"/>
+      </location>
+    </source>
+    <source familyname="Nu Alfabet" filename="sources/nu-alfabet-3-10-19-300-9-Regular.ufo" name="master_horizontal">
+      <location>
+        <dimension name="Horizontal Proportion" xvalue="1000"/>
+      </location>
+    </source>
+    <source familyname="Nu Alfabet" filename="sources/nu-alfabet-9-300-9-10-5-Regular.ufo" name="master_vertical">
+      <location>
+        <dimension name="Vertical Proportion" xvalue="1000"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Nu Alfabet" filename="instances/nu-alfabet-5-100-9-100-5-Regular.ufo" stylename="5 100 9 100 5">
+      <location>
+        <dimension name="Vertical Proportion" xvalue="185.2"/>
+        <dimension name="Horizontal Proportion" xvalue="157.9"/>
+      </location>
+    </instance>
+  </instances>
+</designspace>

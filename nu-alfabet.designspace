@@ -1,26 +1,131 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="utf-8"?>
+
 <designspace format="3">
+  <axes>
+    <axis default="0" maximum="1.0" minimum="0" name="Vertical Proportion" tag="VTUN">
+      <labelname xml:lang="en">Vertical Proportion</labelname>
+    </axis>
+    <axis default="0" maximum="1.0" minimum="0" name="Horizontal Proportion" tag="HTUN">
+      <labelname xml:lang="en">Horizontal Proportion</labelname>
+    </axis>
+  </axes>
   <sources>
-    <source familyname="Nu Alfabet" filename="sources/nu-alfabet-one-Regular.ufo" name="master_1">
+    <source familyname="Nu Alfabet" filename="sources/nu-alfabet-5-16-9-16-5-Regular.ufo" name="master_initial" stylename="Default">
       <lib copy="1"/>
       <info copy="1"/>
       <kerning copy="1"/>
+
       <location>
-        <dimension name="weight" xvalue="0.000000"/>
+        <dimension name="Vertical Proportion"   xvalue="0"/>
+        <dimension name="Horizontal Proportion" xvalue="0"/>
       </location>
     </source>
-    <source familyname="Nu Alfabet" filename="sources/nu-alfabet-two-Regular.ufo" name="master_2">
+    <source familyname="Nu Alfabet" filename="sources/nu-alfabet-5-16-17-80-9-Regular.ufo" name="master_horizontal">
       <location>
-        <dimension name="weight" xvalue="1.000000"/>
+        <dimension name="Horizontal Proportion" xvalue="1.0"/>
+      </location>
+    </source>
+    <source familyname="Nu Alfabet" filename="sources/nu-alfabet-9-80-9-16-5-Regular.ufo" name="master_vertical">
+      <location>
+        <dimension name="Vertical Proportion" xvalue="1.0"/>
       </location>
     </source>
   </sources>
   <instances>
-    <instance familyname="Nu Alfabet" filename="instances/nu-alfabet-middle-Regular.ufo" stylename="Medium">
-      <info />
-      <kerning />
+    <instance familyname="Nu Alfabet" name="Regular" filename="sources/nu-alfabet-5-16-9-16-5-Regular.ufo" stylename="instance 1.1: 1/4 of vertical axis">
       <location>
-        <dimension name="weight" xvalue="0.600000"/>
+        <dimension name="Vertical Proportion"     xvalue="0.25"/>
+        <dimension name="Horizontal Proportion"   xvalue="0.25"/>
+      </location>
+    </instance>
+    <instance familyname="Nu Alfabet" name="Regular" filename="sources/nu-alfabet-5-16-9-16-5-Regular.ufo" stylename="instance 1.2: 1/3 of variation space">
+      <location>
+        <dimension name="Vertical Proportion"     xvalue="0.33"/>
+        <dimension name="Horizontal Proportion"   xvalue="0.33"/>
+      </location>
+    </instance>
+    <instance familyname="Nu Alfabet" name="Regular" filename="sources/nu-alfabet-5-16-9-16-5-Regular.ufo" stylename="instance 1.3: 1/2 of variation space">
+      <location>
+        <dimension name="Vertical Proportion"     xvalue="0.5"/>
+        <dimension name="Horizontal Proportion"   xvalue="0.5"/>
+      </location>
+    </instance>
+    <instance familyname="Nu Alfabet" name="Regular" filename="sources/nu-alfabet-5-16-9-16-5-Regular.ufo" stylename="instance 1.4: 2/3 of vertical axis">
+      <location>
+        <dimension name="Vertical Proportion"     xvalue="0.66"/>
+        <dimension name="Horizontal Proportion"   xvalue="0.66"/>
+      </location>
+      </instance>
+    <instance familyname="Nu Alfabet" name="Regular" filename="sources/nu-alfabet-5-16-9-16-5-Regular.ufo" stylename="instance 1.5: 3/4 of vertical axis">
+      <location>
+        <dimension name="Vertical Proportion"     xvalue="0.75"/>
+        <dimension name="Horizontal Proportion"   xvalue="0.75"/>
+      </location>
+    </instance>
+    <instance familyname="Nu Alfabet" name="Regular" filename="sources/nu-alfabet-5-16-9-16-5-Regular.ufo" stylename="instance 1.6: extreme of both axes">
+      <location>
+        <dimension name="Vertical Proportion"     xvalue="1.0"/>
+        <dimension name="Horizontal Proportion"   xvalue="1.0"/>
+      </location>
+    </instance>
+    <instance familyname="Nu Alfabet" name="Regular" filename="sources/nu-alfabet-5-16-9-16-5-Regular.ufo" stylename="instance 2.1: 1/4 of horizontal axis">
+      <location>
+        <dimension name="Vertical Proportion" xvalue="0.25"/>
+      </location>
+    </instance>
+    <instance familyname="Nu Alfabet" name="Regular" filename="sources/nu-alfabet-5-16-9-16-5-Regular.ufo" stylename="instance 2.2: 1/3 of horizontal axis">
+      <location>
+        <dimension name="Vertical Proportion" xvalue="0.33"/>
+      </location>
+    </instance>
+    <instance familyname="Nu Alfabet" name="Regular" filename="sources/nu-alfabet-5-16-9-16-5-Regular.ufo" stylename="instance 2.3: 1/2 of horizontal axis">
+      <location>
+        <dimension name="Vertical Proportion" xvalue="0.5"/>
+      </location>
+    </instance>
+    <instance familyname="Nu Alfabet" name="Regular" filename="sources/nu-alfabet-5-16-9-16-5-Regular.ufo" stylename="instance 2.4: 2/3 of horizontal axis">
+      <location>
+        <dimension name="Vertical Proportion" xvalue="0.66"/>
+      </location>
+    </instance>
+    <instance familyname="Nu Alfabet" name="Regular" filename="sources/nu-alfabet-5-16-9-16-5-Regular.ufo" stylename="instance 2.5: 3/4 of horizontal axis">
+      <location>
+        <dimension name="Vertical Proportion" xvalue="0.75"/>
+      </location>
+    </instance>
+    <instance familyname="Nu Alfabet" name="Regular" filename="sources/nu-alfabet-5-16-9-16-5-Regular.ufo" stylename="instance 2.6: extreme of horizontal axis">
+      <location>
+        <dimension name="Vertical Proportion" xvalue="1.0"/>
+      </location>
+    </instance>
+    <instance familyname="Nu Alfabet" name="Regular" filename="sources/nu-alfabet-5-16-9-16-5-Regular.ufo" stylename="instance 3.1: 1/4 of vertical axis">
+      <location>
+        <dimension name="Horizontal Proportion" xvalue="0.25"/>
+      </location>
+    </instance>
+    <instance familyname="Nu Alfabet" name="Regular" filename="sources/nu-alfabet-5-16-9-16-5-Regular.ufo" stylename="instance 3.2: 1/3 of vertical axis">
+      <location>
+        <dimension name="Horizontal Proportion" xvalue="0.33"/>
+      </location>
+    </instance>
+    <instance familyname="Nu Alfabet" name="Regular" filename="sources/nu-alfabet-5-16-9-16-5-Regular.ufo" stylename="instance 3.3: 1/2 of vertical axis">
+      <location>
+        <dimension name="Horizontal Proportion" xvalue="0.5"/>
+      </location>
+    </instance>
+    <instance familyname="Nu Alfabet" name="Regular" filename="sources/nu-alfabet-5-16-9-16-5-Regular.ufo" stylename="instance 3.4: 2/3 of vertical axis">
+      <location>
+        <dimension name="Horizontal Proportion" xvalue="0.66"/>
+      </location>
+    </instance>
+    <instance familyname="Nu Alfabet" name="Regular" filename="sources/nu-alfabet-5-16-9-16-5-Regular.ufo" stylename="instance 3.5: 3/4 of vertical axis">
+      <location>
+        <dimension name="Horizontal Proportion" xvalue="0.75"/>
+      </location>
+    </instance>
+    <instance familyname="Nu Alfabet" name="Regular" filename="sources/nu-alfabet-5-16-9-16-5-Regular.ufo" stylename="instance 3.6: extreme of vertical axis">
+      <location>
+        <dimension name="Horizontal Proportion" xvalue="1.0"/>
       </location>
     </instance>
   </instances>

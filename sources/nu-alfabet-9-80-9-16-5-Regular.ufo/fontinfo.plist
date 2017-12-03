@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>112</integer>
+	<key>capHeight</key>
+	<integer>80</integer>
+	<key>copyright</key>
+	<string>Copyright © 2017 by Rafael de Azevedo. All rights reserved.</string>
+	<key>descender</key>
+	<integer>-32</integer>
+	<key>familyName</key>
+	<string>nu-alfabet-9-80-9-16-5</string>
+	<key>openTypeHeadCreated</key>
+	<string>2017/12/02 20:22:05</string>
+	<key>openTypeNameDesigner</key>
+	<string>Rafael de Azevedo</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>nu-alfabet-9-80-9-16-5</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-15</integer>
+		<integer>0</integer>
+		<integer>95</integer>
+		<integer>96</integer>
+		<integer>112</integer>
+		<integer>128</integer>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-47</integer>
+		<integer>-32</integer>
+	</array>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>80</integer>
+</dict>
+</plist>
